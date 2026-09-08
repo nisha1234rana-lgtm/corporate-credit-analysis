@@ -6,4 +6,7 @@ __pycache__/
 Thumbs.db
 *.duckdb
 *.duckdb.wal
-desktop.ini
+desktop.inidata/raw/filings/
+
+data/raw/filings/
+**/desktop.ini
