@@ -284,6 +284,40 @@ Lexicon-based analysis of 10-K Risk Factors and MD&A, including:
 ![Management & Risk Signals](images/management_risk_signals_dashboard.png)
 
 ---
+## Home Depot Corporate Banking Case
+
+The broader peer analysis is extended into a deeper underwriting case for Home Depot.
+
+The case evaluates whether Home Depot could support **$3.0 billion of incremental senior debt** while maintaining acceptable leverage, interest coverage, free cash flow, and liquidity under base and downside conditions.
+
+### Transaction Analysis
+
+| Metric | Current | Pro Forma + $3B |
+|---|---:|---:|
+| Debt / EBITDA | 2.19x | 2.31x |
+| Interest Coverage | 8.66x | 8.06x |
+| Free Cash Flow | $12.65B | $12.47B |
+
+Under the severe downside scenario:
+
+- Debt / EBITDA increases to approximately **2.97x**
+- Interest coverage remains approximately **5.15x**
+- Free cash flow remains positive at approximately **$8.83B**
+
+Using illustrative underwriting limits, severe-case leverage produces estimated incremental debt capacity of approximately **$3.5B**.
+
+### Credit Recommendation
+
+**Lend with conditions.**
+
+Home Depot appears capable of supporting the proposed $3.0B financing, but the transaction uses a substantial portion of its estimated downside debt capacity. Additional leverage should therefore remain limited unless supported by EBITDA growth or debt reduction.
+
+### Banking Case Outputs
+
+- **Home Depot Credit Model** — Excel financial model, capital structure, debt capacity and downside analysis
+- **Home Depot Credit Memo** — 2-page underwriting recommendation
+- **Home Depot Credit Review** — 9-slide credit and financing presentation 
+
 
 ## Project Structure
 
